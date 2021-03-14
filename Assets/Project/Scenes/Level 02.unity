@@ -422,7 +422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _scrAvatarMechanic: {fileID: 664214993}
   _scrCoreMechanics: {fileID: 324421209}
-  _fltGameTime: 120
+  _fltGameTime: 90
   _scrNonDiegeticUI: {fileID: 1159603606}
 --- !u!4 &324421211
 Transform:
@@ -1987,7 +1987,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh23858
+  m_Name: pb_Mesh21104
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
